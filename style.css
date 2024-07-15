@@ -1,0 +1,30 @@
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #1a18b1, #8257c7);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+#title p {
+    color: aliceblue;
+}
+
+.container-background {
+    background-color: rgba(73, 15, 128, 0.45);
+    color: aliceblue;
+}
+
+.alt-link {
+    color: aliceblue;
+}
+
+.alt-link:hover {
+    color: rgb(213, 217, 219);
+}
+
+h2 {
+    display: inline-flex;
+}
+
+.alt-img {
+    display: inline-block;
+}
